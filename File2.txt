@@ -1,0 +1,4 @@
+ame : Pratik babar 
+Class : TE AIML 
+Roll Noll : 33508
+this is file2,txt
